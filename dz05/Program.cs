@@ -17,5 +17,5 @@ double result = Math.Sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1));
 Console.WriteLine("Вывод расстояния между точками на плоскости: " + result);
 
 double result2 = Math.Sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1) + (z2-z1)*(z2-z1));
-Console.WriteLine("Вывод расстояния между точками а пространстве: " + result2);
+Console.WriteLine("Вывод расстояния между точками в пространстве: " + result2);
 
